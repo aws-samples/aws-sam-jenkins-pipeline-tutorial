@@ -1,6 +1,6 @@
 ## AWS SAM Jenkins pipeline tutorial
 
-Backend sample application which will be used in AWS SAM Jenkins pipeline tutorial blog post. [TODO: enter blog post link here]
+Backend sample application which will be used in [Building a Jenkins Pipeline with AWS SAM](https://aws.amazon.com/blogs/compute/building-a-jenkins-pipeline-with-aws-sam/) blog post.
 
 ## Security
 
